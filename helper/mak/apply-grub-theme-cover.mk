@@ -1,5 +1,5 @@
 
 
-apply-grub-theme-cover-remix:
-	make -C grub-theme/grub-theme-cover-remix/helper/theme-installer apply
-.PHONY: apply-grub-theme-cover-remix
+apply-grub-theme-cover:
+	make -C grub-theme/grub-theme-cover/helper/theme-installer apply
+.PHONY: apply-grub-theme-cover

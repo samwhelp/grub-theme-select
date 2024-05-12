@@ -1,5 +1,5 @@
 
 
-fetch-grub-theme-cover-remix:
-	make -C grub-theme/grub-theme-cover-remix/helper/theme-installer fetch
-.PHONY: fetch-grub-theme-cover-remix
+fetch-grub-theme-cover:
+	make -C grub-theme/grub-theme-cover/helper/theme-installer fetch
+.PHONY: fetch-grub-theme-cover

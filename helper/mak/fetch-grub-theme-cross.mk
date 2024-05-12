@@ -1,5 +1,5 @@
 
 
-fetch-grub-theme-cross-remix:
-	make -C grub-theme/grub-theme-cross-remix/helper/theme-installer fetch
-.PHONY: fetch-grub-theme-cross-remix
+fetch-grub-theme-cross:
+	make -C grub-theme/grub-theme-cross/helper/theme-installer fetch
+.PHONY: fetch-grub-theme-cross

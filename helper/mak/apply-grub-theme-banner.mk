@@ -1,5 +1,5 @@
 
 
-apply-grub-theme-banner-remix:
-	make -C grub-theme/grub-theme-banner-remix/helper/theme-installer apply
-.PHONY: apply-grub-theme-banner-remix
+apply-grub-theme-banner:
+	make -C grub-theme/grub-theme-banner/helper/theme-installer apply
+.PHONY: apply-grub-theme-banner
